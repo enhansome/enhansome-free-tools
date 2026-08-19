@@ -1,54 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Completely Free (Hosted, No Limits)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Free with Generous Tier"
-    },
-    {
-      "description": "Badges are a free easy way to enhance README.md files and attract contributors. Here is a compilation of some you can use in your project.",
-      "items": [],
-      "title": "Project Badges"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GitHub Metadata"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Project Health"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community & Support"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Socials"
-    },
-    {
-      "description": "Self-Hosted options are no longer listed. - Visit the Awesome Self-Hosted Repo or their website for more self-hosted options.",
-      "items": [],
-      "title": "Footnotes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Support"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T22:49:11.598Z",
+    "last_updated": "2026-08-19T12:30:54.166Z",
     "original_repository": "mathewlewallen/awesome-free-tools",
+    "original_repository_id": 952839458,
     "original_repository_sha": "59216993184a788ba51aca1c6b4a62c37282e0f4",
     "enhanced_repository": "enhansome/enhansome-free-tools",
     "enhanced_repository_description": null,
