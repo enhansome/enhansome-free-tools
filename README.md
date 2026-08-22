@@ -1,6 +1,6 @@
 # Awesome Free Tools with stars
 
-[<img src="_partials/logo.svg" align="right" width="100">](https://github.com/mathewlewallen/awesome-free-tools) ⭐ 90 | 🐛 74 | 🌐 JavaScript | 📅 2026-03-29
+[<img src="_partials/logo.svg" align="right" width="100">](https://github.com/mathewlewallen/awesome-free-tools) ⭐ 90 | 🐛 76 | 🌐 JavaScript | 📅 2026-03-29
 
 > A curated list of free tools that are developer-friendly and easy to integrate to any application.
 
@@ -527,7 +527,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 ## Footnotes
 
-**Self-Hosted options are no longer listed.** - Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) ⭐ 314,158 | 🐛 0 | 📅 2026-08-21 or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
+**Self-Hosted options are no longer listed.** - Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) ⭐ 314,352 | 🐛 0 | 📅 2026-08-22 or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
 
 ### Support
 
@@ -539,7 +539,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 >
 > Want to add something to the list? Check -> [contributing.md](contributing.md)
 >
-> If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-free-tools/issues/1) ⭐ 90 | 🐛 74 | 🌐 JavaScript | 📅 2026-03-29
+> If you want to become a maintainer, [then do so here.](https://github.com/mathewlewallen/awesome-free-tools/issues/1) ⭐ 90 | 🐛 76 | 🌐 JavaScript | 📅 2026-03-29
 
 ### Maintainers
 
@@ -550,4 +550,4 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
