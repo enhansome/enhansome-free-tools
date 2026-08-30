@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:36.209Z",
+    "last_updated": "2026-08-30T00:31:40.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of the best free (or extremely cheap) tools that are (here's the key) Easy To Integrate!",
@@ -10,7 +10,7 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-03-29T17:11:50Z",
-      "open_issues": 77,
+      "open_issues": 78,
       "owner": "mathewlewallen",
       "repo": "awesome-free-tools",
       "stars": 92,
