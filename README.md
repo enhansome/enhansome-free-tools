@@ -527,7 +527,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 ## Footnotes
 
-**Self-Hosted options are no longer listed.** - Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) ⭐ 319,733 | 🐛 0 | 📅 2026-09-15 or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
+**Self-Hosted options are no longer listed.** - Visit the [Awesome Self-Hosted Repo](https://github.com/awesome-selfhosted/awesome-selfhosted/tree/master) ⭐ 319,942 | 🐛 0 | 📅 2026-09-15 or their [website](https://awesome-selfhosted.net/) for more self-hosted options.
 
 ### Support
 
@@ -550,4 +550,4 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
